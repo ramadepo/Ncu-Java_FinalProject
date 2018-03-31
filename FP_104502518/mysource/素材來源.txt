@@ -1,0 +1,39 @@
+音效：
+(時間暫停)01_clock1.wav : (MoonWind) http://moonwind.pw/material/sound/ran/se/real/machine/01_clock1.wav
+
+音樂：
+(背景音樂)tukitomozell_crozier_legendary_confrict.mp3 : (MoonWind) http://moonwind.pw/material/sound/tukito/mp3/collaboration/tukitomozell_crozier_legendary_confrict.mp3
+(Button)02_dicide.wav : (MoonWind)http://moonwind.pw/material/sound/ran/se/electronic/batton/02_decide.wav
+(魔王音效)se_maoudamashii_effect12.wav : http://maoudamashii.jokersounds.com/list/se10.html
+
+圖片：
+(道具A)04e.jpg : (MoonWind) http://moonwind.pw/material/graphics/effect/magic/circle/04e.jpg
+(怪物1)elements_dark01.png : (MoonWind) http://moonwind.pw/material/graphics/monster/05god/elements_dark01.png
+(背景圖1)01l.jpg : (MoonWind) http://moonwind.pw/material/graphics/nature/sea/horizon/01l.jpg
+(背景圖2)07.jpg : (MoonWind) http://moonwind.pw/material/graphics/nature/sky/night/07.jpg
+(道具C)heart.png : http://blog-imgs-84.fc2.com/p/i/p/piposozai/3markicon_sample.png
+(gameover)101204_e.png : http://blog-imgs-46-origin.fc2.com/e/u/r/eurs/101204_e.png
+(羊皮紙)0426g.png : https://381d3c8c-a-62cb3a1a-s-sites.googlegroups.com/site/closetvx/picture/02/0426g.png?attachauth=ANoY7crUcqPe3MGb7G3xA9Uh6nHNTzGT1biE9cgOw1ZPO09_J9gs8jr_gJDztcHGQDyKZrQe0080kxPETMb0IgyOJDtYhCLfaOPtrxy5BbCw8TWpTBSSVOsa3xjrGw-Us_yJOBbV-cTEAUQVVef9-SDeCizIl27WZdhv8-2k3Pag-vLVXlB26FD31mZya6edB3Jjhl8YFy5TIAebOL2iB2vW4qoUjxpMfg%3D%3D&attredirects=0
+(對話框)ele2.png : http://www.vita-chi.net/mese/ele2.png
+(名稱欄)hakkou1.png : http://www.vita-chi.net/mese/hakkou1.png
+(名稱欄)hakkou2.png : http://www.vita-chi.net/mese/hakkou2.png
+(磚塊)block.png : http://blog-imgs-84.fc2.com/p/i/p/piposozai/pipoya_spicon_001_2-sampledesign.jpg
+(角色)fc_Rochefort_mau.png : http://blog-imgs-52-origin.fc2.com/e/u/r/eurs/fc_Rochefort_mau.png
+(王怪O3)lucifer.png : http://cyanyurikago.web.fc2.com/images/lucifer.png
+(王怪2)leviathan.png : http://cyanyurikago.web.fc2.com/images/leviathan.png
+(王怪3)bashar.png : http://cyanyurikago.web.fc2.com/images/bashar.png
+(王怪4)utopia.png : http://cyanyurikago.web.fc2.com/images/utopia.png
+(王怪O2)catastrophe.png : http://cyanyurikago.web.fc2.com/images/catastrophe.png
+(王怪6)mement-mori.png : http://cyanyurikago.web.fc2.com/images/mement-mori.png
+(王怪7)girandeva.png : http://cyanyurikago.web.fc2.com/images/girandeva.png
+(王怪8)rokutenmaou-l.png : http://cyanyurikago.web.fc2.com/images/rokutenmaou-l.png
+(王怪O1)ticktackman2013.png : http://cyanyurikago.web.fc2.com/images/ticktackman2013.png
+(鳳凰)suzaku.png : http://cyanyurikago.web.fc2.com/images/suzaku.png
+(死神)reaper.png : http://cyanyurikago.web.fc2.com/images/reaper.png
+(抓抓)boss1attack.gif : http://blog-imgs-62.fc2.com/p/i/p/piposozai/pipo-btleffect121_sample.gif
+(光線)boss2attack.gif : http://blog-imgs-62.fc2.com/p/i/p/piposozai/pipo-btleffect131_sample.gif
+(橫光線掃) boss2attack2.gif : http://blog-imgs-62.fc2.com/p/i/p/piposozai/pipo-btleffect141_sample.gif
+(光斬) boss3attack.gif : http://blog-imgs-62.fc2.com/p/i/p/piposozai/pipo-btleffect130_sample.gif
+(魔法陣) magic.gif : http://blog-imgs-62.fc2.com/p/i/p/piposozai/shoukan_sample1.gif
+工具 ：
+(滑鼠)cursor2.png ： http://uros.web.fc2.com/systemgraphic/cursor2.png
